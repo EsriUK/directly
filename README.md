@@ -23,7 +23,7 @@ Please view the application [here](http://localhost/Git/maplabs.github.io/direct
 
 # Licensing
 
-Copyright 2016 ESRI (UK) Limited
+Copyright 2018 ESRI (UK) Limited
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
