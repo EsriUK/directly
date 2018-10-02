@@ -1,0 +1,33 @@
+html, body, #viewDiv {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+}
+#box {
+    width: 100vw;
+    height: 100vh;
+    position: absolute;
+    overflow: hidden;
+    z-index: 1;
+    pointer-events: none;
+}
+#contentContainer {
+    position: relative;
+}
+.point {
+    transition-timing-function: ease-in-out;
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    padding: 15px;
+    border-radius: 50%;
+    border-color: pink;
+    background-color: black;
+    opacity: 1;
+    transform: scale(1);
+    transition: 0.15s all ease;
+}
+.point.close {
+    transform: scale(1.6);
+}
