@@ -19,7 +19,7 @@ Any feedback on this is appreciated.
 
 # Sample
 
-Please view the application [here](http://localhost/Git/maplabs.github.io/directly/).
+Please view the application [here](https://maplabs.github.io/directly/).
 
 # Licensing
 
