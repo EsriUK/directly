@@ -19,7 +19,7 @@ Any feedback on this is appreciated.
 
 # Sample
 
-Please view the application [here](https://maplabs.github.io/directly/).
+Please view the application [here](https://apps.esriuk.com/app/Directly/1/wmt/view/05ce10bce86441dfaba712b476fc7f9b/index.html).
 
 # Licensing
 
